@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
@@ -133,7 +133,7 @@ dist
 .vscode-test
 
 # yarn v3
->>>>>>> 4a78608d1ae78822ddeaf013401d964d0ebd8526
+
 .pnp.*
 .yarn/*
 !.yarn/patches
