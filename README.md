@@ -1,3 +1,4 @@
+
 # Smart Bookmark App - Complete Project Documentation
 
 ## Overview
@@ -74,3 +75,5 @@ cd smart-bookmark-app
 npm install
 # Ensure you have Supabase keys in .env.local
 npm run dev
+=======
+# smart-bookmark-app
