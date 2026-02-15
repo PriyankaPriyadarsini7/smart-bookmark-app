@@ -13,6 +13,7 @@ export default function Home() {
       provider: 'google',
       options: {
         queryParams: { prompt: 'select_account' },
+        redirectTo: process.env.NEXT_PUBLIC_SUPABASE_REDIRECT_URL, 
       },
     })
   }
